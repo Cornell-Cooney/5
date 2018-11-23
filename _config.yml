@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://yananart.site"
+baseurl: ""
 
 markdown: kramdown
 
@@ -21,3 +21,5 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+plugins:
+  - jekyll-sitemap
